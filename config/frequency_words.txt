@@ -162,6 +162,7 @@ RISC-V
 英伟达
 
 CUDA 
+
 Blackwell
 
 AMD MI300
@@ -206,7 +207,7 @@ AI大模型
 
 Mixture of Experts
 
-Grok OR Grok-4
+Grok
 
 DeepSeek
 
@@ -234,7 +235,7 @@ GLM
 
 Sora 
 
-Veo OR Google视频生成
+Google视频生成
 
 Runway 
 
@@ -253,8 +254,6 @@ AutoGPT
 具身智能
 
 机器人
-
-Figure OR 01
 
 Tesla Optimus
 
@@ -303,6 +302,7 @@ AI监管
 蓝桥杯
 
 华为天才少年 计算机
+
 华为天才少年 集成电路
 
 阿里达摩院青橙奖
